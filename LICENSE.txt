@@ -1,5 +1,3 @@
-Here is the extracted MIT License text from the provided image:
-
 MIT License
 Copyright (c) 2024 Vidzai Digital
 
